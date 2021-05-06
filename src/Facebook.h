@@ -17,6 +17,8 @@
 #import "FBLoginDialog.h"
 #import "FBRequest.h"
 
+#define FORCE_INLINE_LOGIN	YES
+
 @protocol FBSessionDelegate;
 
 /**
